@@ -1,3 +1,7 @@
+/*
+    Process Synchronization: Reader - Writers Problem
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
